@@ -30,6 +30,8 @@ I am currently taking an intensive Bootcamp training @LacapsuleMarseille : 🚀 
 - 💬 &nbsp; Ask me about Swell Forecasting, Bourbaki and Ukulele Strumming Patterns
 - ⚡ &nbsp; Fun fact: When eating cereal, I poor the milk always AFTER the cereal
 
+<br>
+
 ## 🔧 Languages & Tools
 
 <p align="center">
@@ -51,5 +53,7 @@ I am currently taking an intensive Bootcamp training @LacapsuleMarseille : 🚀 
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
+
+<br>
 
 ## 📈 GitHub Stats
