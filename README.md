@@ -59,7 +59,7 @@ I am currently taking an intensive Bootcamp training @LaCapsuleMarseille : 🚀 
 ## 📈 GitHub Stats
 
 <a href="https://github.com/ByronMike/ByronMike">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=byronmike&show_icons=true&line_height=27&theme=radical" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=byronmike&show_icons=true&line_height=27&theme=radical"/>
 </a>
 <a href="https://github.com/ByronMike/ByronMike">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byronmike&langs_count=3&theme=radical" />
@@ -69,4 +69,9 @@ I am currently taking an intensive Bootcamp training @LaCapsuleMarseille : 🚀 
   <img width="96%" align="center" src="https://activity-graph.herokuapp.com/graph?username=byronmike&theme=react-dark" />
 </a>
 
+## Miscellaneous
 
+<!-- HTML -->
+Just a Random programming jokes :
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
