@@ -20,4 +20,14 @@
 
 <br/>
 
+## 🔧 About me
 
+🔭 I’m currently working as a Software Developer in Bengaluru, India
+🌱 I’m currently learning Machine Learning and Big Data
+💬 Ask me about Geoguessr, Chess and Tintin comics
+😄 Pronouns: He / Him
+⚡ Fun fact: My name is an anagram of "I Play Data"
+
+## 🔧 Languages & Tools
+
+## 📈 GitHub Stats
