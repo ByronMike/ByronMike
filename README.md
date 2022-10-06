@@ -22,11 +22,11 @@
 
 ## 🔧 About me
 
-🔭 I’m currently working as a Software Developer in Bengaluru, India
-🌱 I’m currently learning Machine Learning and Big Data
-💬 Ask me about Geoguessr, Chess and Tintin comics
-😄 Pronouns: He / Him
-⚡ Fun fact: My name is an anagram of "I Play Data"
+- 🔭 &nbsp; I am currently taking an intensive Bootcamp training @LacapsuleMarseille : Web & Mobile FullStack Developer (certified Grande École du Numérique)
+- 🌱 &nbsp; I'm on track with learning more about JS frameworks (React.js, React Native)
+- 🥅 &nbsp; 2023 Goals : Learn more about JS, ML/AI and web3
+- 💬 &nbsp; Ask me about Swell Forecasting, Bourbaki and Ukulele Strumming Patterns
+- ⚡ &nbsp; Fun fact: When eating cereal, I poor the milk always AFTER the cereal
 
 ## 🔧 Languages & Tools
 
