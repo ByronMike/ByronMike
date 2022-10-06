@@ -66,6 +66,6 @@ I am currently taking an intensive Bootcamp training @LaCapsuleMarseille : 🚀 
 </a>
 
 <a href="https://github.com/ByronMike/ByronMike">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=byronmike&theme=react-dark" />
+  <img width="79%" align="center" src="https://activity-graph.herokuapp.com/graph?username=byronmike&theme=react-dark" />
 </a>
 
