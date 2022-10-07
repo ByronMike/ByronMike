@@ -25,7 +25,7 @@
 
 I am currently taking an intensive Bootcamp training @LaCapsuleMarseille : 🚀 Web & Mobile FullStack Developer 🚀 (certified Grande École du Numérique).
 
-- 🔭 &nbsp; **I am looking for a job as a Junior FullStack Developer** (former Research Officer in Sustainable Finance, Environmental Economics & Sports Economics)
+- 🔭 &nbsp; **I am looking for a job as a Junior FullStack Developer** (former Research Officer in Economics)
 - 🌱 &nbsp; I'm on track with learning more about DevOps, OOP (PHP, Python) and their respective Backend Framework (Laravel, Django)
 - 🥅 &nbsp; 2023 Goals : Learn more about JS, ML/AI and web3
 - 💬 &nbsp; Ask me about Swell Forecasting, Bourbaki and Ukulele Strumming Patterns
