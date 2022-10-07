@@ -1,3 +1,4 @@
+<!-- Introduction -->
 <h1 align="center">
 # Hello world! I'm Michaël Auger
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -35,7 +36,7 @@ I am currently taking an intensive Bootcamp training @LaCapsuleMarseille : 🚀 
 ## 🔧 Languages & Tools
 
 <p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <!-- Tools icons by @mikecodesdotnet :  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://github.com/ByronMike/ByronMike/blob/main/Resources/languages_logo/web_logo.svg" alt="webdev" style="vertical-align:top; margin:4px">
   <img src="https://github.com/ByronMike/ByronMike/blob/main/Resources/languages_logo/visualstudio_logo.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://github.com/ByronMike/ByronMike/blob/main/Resources/languages_logo/powershell_logo.svg" alt="powershell" style="vertical-align:top; margin:4px">
@@ -58,6 +59,7 @@ I am currently taking an intensive Bootcamp training @LaCapsuleMarseille : 🚀 
 
 ## 📈 GitHub Stats
 
+<!-- GitHub Stats tools by @anuraghazra : https://github.com/anuraghazra/github-readme-stats  -->
 <a href="https://github.com/ByronMike/ByronMike">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=byronmike&show_icons=true&line_height=27&theme=radical"/>
 </a>
@@ -71,7 +73,7 @@ I am currently taking an intensive Bootcamp training @LaCapsuleMarseille : 🚀 
 
 ## Miscellaneous
 
-<!-- HTML -->
+<!-- Random jokes by @ABSphreak : https://github.com/ABSphreak/readme-jokes -->
 Just a Random programming jokes :
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
