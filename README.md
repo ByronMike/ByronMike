@@ -74,6 +74,6 @@ I am currently taking an intensive Bootcamp training @LaCapsuleMarseille : 🚀 
 ## Miscellaneous
 
 <!-- Random jokes by @ABSphreak : https://github.com/ABSphreak/readme-jokes -->
-Just a Random programming jokes :
+<p align="center">Just a Random programming jokes :</p>
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<div align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></div>
