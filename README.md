@@ -23,7 +23,7 @@
 
 ## About me
 
-I am currently taking an intensive Bootcamp training @LaCapsuleMarseille : 🚀 Web & Mobile FullStack Developer 🚀 (certified Grande École du Numérique).
+I am currently taking an intensive online training @Codecademy : 🚀 Full-Stack Engineer 🚀.
 
 - 🔭 &nbsp; **I am looking for a job as a Junior FullStack Developer** (former Research Officer in Finance & Economics)
 - 🌱 &nbsp; I'm on track with learning more about DevOps, OOP (PHP, Python) and their respective Backend Framework (Laravel, Django)
