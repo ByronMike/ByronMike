@@ -59,6 +59,7 @@ I am currently taking an intensive Web Development Bootcamp @LaCapsule : 🚀 Fu
 
 ## 📈 GitHub Stats
 
+<div align="center">
 <!-- GitHub Stats tools by @anuraghazra : https://github.com/anuraghazra/github-readme-stats  -->
 <a href="https://github.com/ByronMike/ByronMike">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=byronmike&show_icons=true&line_height=27&theme=radical"/>
@@ -66,6 +67,7 @@ I am currently taking an intensive Web Development Bootcamp @LaCapsule : 🚀 Fu
 <a href="https://github.com/ByronMike/ByronMike">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byronmike&langs_count=3&theme=radical" />
 </a>
+</div>
 
 
 
