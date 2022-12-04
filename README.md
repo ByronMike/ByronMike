@@ -67,9 +67,7 @@ I am currently taking an intensive Web Development Bootcamp @LaCapsule : 🚀 Fu
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byronmike&langs_count=3&theme=radical" />
 </a>
 
-<a href="https://github.com/ByronMike/ByronMike">
-  <img width="96%" align="center" src="https://activity-graph.herokuapp.com/graph?username=byronmike&theme=react-dark" />
-</a>
+
 
 ## Miscellaneous
 
