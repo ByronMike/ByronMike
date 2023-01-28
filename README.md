@@ -26,7 +26,7 @@
 I am currently taking an intensive Web Development Bootcamp @LaCapsule : 🚀 Full-Stack Developer 🚀.
 
 - 🔭 &nbsp; **I am looking for a job opportunity as a Junior Full Stack Node/React.js Developer** (former Research Officer in Finance & Economics)
-- 🌱 &nbsp; I'm on track with learning more about DevOps, OOP (PHP, Python) and their respective Backend Framework (Laravel, Django)
+- 🌱 &nbsp; I'm on track with learning more about DevOps, OOP (PHP, Python) and their respective Backend Framework (Symfony, Django)
 - 🥅 &nbsp; 2023 Goals : Learn more about JS, ML/AI and web3
 - 💬 &nbsp; Ask me about Swell Forecasting, Bourbaki and Ukulele Strumming Patterns
 - ⚡ &nbsp; Fun fact: When eating cereal, I poor the milk always AFTER the cereal
