@@ -23,7 +23,7 @@
 
 ## About me
 
-I am currently taking an intensive Web Development Bootcamp @LaCapsule : 🚀 Full-Stack Developer 🚀.
+Currently on a mission at The Coding Machine, a digital marketing agency specialized in B2B software publishers and ESNs, I work mainly on the front end for a major account : 🚀 React / Redux / Apollo GraphQL 🚀.
 
 - 🔭 &nbsp; **I am looking for a job opportunity as a Junior Full Stack Node/React.js Developer** (former Research Officer in Finance & Economics)
 - 🌱 &nbsp; I'm on track with learning more about DevOps, OOP (PHP, Python) and their respective Backend Framework (Symfony, Django)
@@ -37,15 +37,15 @@ I am currently taking an intensive Web Development Bootcamp @LaCapsule : 🚀 Fu
 
 <p align="center">
   <!-- Tools icons by @mikecodesdotnet :  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://github.com/ByronMike/ByronMike/blob/main/Resources/languages_logo/web_logo.svg" alt="webdev" style="vertical-align:top; margin:4px">
   <img src="https://github.com/ByronMike/ByronMike/blob/main/Resources/languages_logo/visualstudio_logo.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/ByronMike/ByronMike/blob/main/Resources/languages_logo/powershell_logo.svg" alt="powershell" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/ByronMike/ByronMike/blob/main/Resources/languages_logo/bash_logo.svg" alt="bash" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/ByronMike/ByronMike/blob/main/Resources/languages_logo/docker_logo.svg" alt="docker" style="vertical-align:top; margin:4px">
   <img src="https://github.com/ByronMike/ByronMike/blob/main/Resources/languages_logo/html_logo.svg" alt="html" style="vertical-align:top; margin:4px">
   <img src="https://github.com/ByronMike/ByronMike/blob/main/Resources/languages_logo/css3_logo.svg" alt="css3" style="vertical-align:top; margin:4px">
   <img src="https://github.com/ByronMike/ByronMike/blob/main/Resources/languages_logo/js_logo.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://github.com/ByronMike/ByronMike/blob/main/Resources/languages_logo/react_logo.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://github.com/ByronMike/ByronMike/blob/main/Resources/languages_logo/nodejs_logo.svg" alt="nodejs" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/ByronMike/ByronMike/blob/main/Resources/languages_logo/bootstrap_logo.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/ByronMike/ByronMike/blob/main/Resources/languages_logo/codewars_logo.svg" alt="codewars" style="vertical-align:top; margin:4px">
   
   <img src="https://github.com/ByronMike/ByronMike/blob/main/Resources/languages_logo/datascience_logo.svg" alt="ml" style="vertical-align:top; margin:4px">
   <img src="https://github.com/ByronMike/ByronMike/blob/main/Resources/languages_logo/r_logo.svg" alt="r" style="vertical-align:top; margin:4px">
