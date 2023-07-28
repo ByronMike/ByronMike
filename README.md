@@ -23,11 +23,11 @@
 
 ## About me
 
-Currently on a mission at The Coding Machine, a digital marketing agency specialized in B2B software publishers and ESNs, I work mainly on the front end for a major account : 🚀 React / Redux / Apollo GraphQL 🚀.
+I'm currently working for La Provence, a French regional daily newspaper founded in Marseilles in 1997, as a Web Developer. : 🚀  Next.js / NestJS / Redux / MongoDB 🚀.
 
-- 🔭 &nbsp; **I am looking for a job opportunity as a Junior Full Stack Node/React.js Developer** (former Research Officer in Finance & Economics)
-- 🌱 &nbsp; I'm on track with learning more about DevOps, OOP (PHP, Python) and their respective Backend Framework (Symfony, Django)
-- 🥅 &nbsp; 2023 Goals : Learn more about JS, ML/AI and web3
+- 🔭 &nbsp; **I am happy as a Web Developer** (former Research Officer in Finance & Economics)
+- 🌱 &nbsp; I'm on track with learning more about DevOps, Python and its applications (django, AI, web scrapping)
+- 🥅 &nbsp; 2023 Goals : Learn more about TS, ML/AI and design patterns
 - 💬 &nbsp; Ask me about Swell Forecasting, Bourbaki and Ukulele Strumming Patterns
 - ⚡ &nbsp; Fun fact: When eating cereal, I poor the milk always AFTER the cereal
 
