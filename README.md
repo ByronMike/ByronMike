@@ -23,7 +23,7 @@
 
 ## About me
 
-I'm currently working for La Provence, a French regional daily newspaper founded in Marseilles in 1997, as a Web Developer :
+I'm currently working for La Provence, a French regional daily newspaper founded in Marseilles in 1997, as a Web Developer : <br>
 🚀  Next.js / NestJS / Redux / MongoDB 🚀.
 
 - 🔭 &nbsp; **I am happy as a Web Developer** (former Research Officer in Finance & Economics)
