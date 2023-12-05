@@ -56,7 +56,7 @@ I'm currently working for La Provence, a French regional daily newspaper founded
   
 </p>
 <div align="center">
-  <img src="https://www.codewars.com/users/ByronMike/badges/large" alt="Codewars">
+  <img src="https://www.codewars.com/users/ByronMike/badges/large" alt="Codewars" href="https://www.codewars.com/users/ByronMike">
 </div>
 
 <br>
