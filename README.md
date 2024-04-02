@@ -6,7 +6,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=2500&pause=1250&color=9200F7&center=true&vCenter=true&width=440&lines=I'm+a+Junior+Full-Stack+Developer;I'm+a+Watersport+Blogger;I'm+Byron+Mike" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=2500&pause=1250&color=9200F7&center=true&vCenter=true&width=440&lines=I'm+a+Front-End+Developer;I'm+a+Watersport+Blogger;I'm+Byron+Mike" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section - https://icons8.com/icons/set/social-media--purple-->
@@ -24,11 +24,11 @@
 ## About me
 
 I'm currently working for La Provence, a French regional daily newspaper founded in Marseilles in 1997, as a Web Developer : <br>
-🚀  Next.js / NestJS / Redux / MongoDB 🚀.
+🚀  Next.js / Tailwind / StoryBook / TypeScript 🚀.
 
 - 🔭 &nbsp; **I am happy as a Web Developer** (former Research Officer in Finance & Economics)
-- 🌱 &nbsp; I'm on track with learning more about DevOps, Python and its applications (django, AI, web scrapping)
-- 🥅 &nbsp; 2023 Goals : Learn more about TS, ML/AI and design patterns
+- 🌱 &nbsp; I'm on track with learning more about powerful libraries for React / JavaScript : Framer motion, Three.js, React three fiber and Leaflet
+- 🥅 &nbsp; 2024 Goals : Learn more about TS, ML/AI and design patterns
 - 💬 &nbsp; Ask me about Swell Forecasting, Bourbaki and Ukulele Strumming Patterns
 - ⚡ &nbsp; Fun fact: When eating cereal, I poor the milk always AFTER the cereal
 
