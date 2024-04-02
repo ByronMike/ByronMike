@@ -27,7 +27,7 @@ I'm currently working for La Provence, a French regional daily newspaper founded
 🚀  Next.js / Tailwind / StoryBook / TypeScript 🚀.
 
 - 🔭 &nbsp; **I am happy as a Web Developer** (former Research Officer in Finance & Economics)
-- 🌱 &nbsp; I'm on track with learning more about powerful libraries for React / JavaScript : Framer motion, Three.js, React three fiber and Leaflet
+- 🌱 &nbsp; I'm on track with learning more about powerful libraries for React / JS : Framer motion, Three.js, React three fiber and Leaflet
 - 🥅 &nbsp; 2024 Goals : Learn more about TS, ML/AI and design patterns
 - 💬 &nbsp; Ask me about Swell Forecasting, Bourbaki and Ukulele Strumming Patterns
 - ⚡ &nbsp; Fun fact: When eating cereal, I poor the milk always AFTER the cereal
