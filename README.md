@@ -71,7 +71,7 @@ I'm currently working for La Provence, a French regional daily newspaper founded
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=byronmike&show_icons=true&line_height=27&theme=radical"/>
 </a>
 <a href="https://github.com/ByronMike/ByronMike">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byronmike&langs_count=4&theme=radical&hide=html,css,javascript&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byronmike&langs_count=3&theme=radical&hide=html,css,javascript,jupyter%20notebook" />
 </a>
 </div>
 
