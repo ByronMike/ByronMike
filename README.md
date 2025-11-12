@@ -23,10 +23,12 @@
 
 ## About me
 
-I'm currently working for La Provence, a French regional daily newspaper founded in Marseilles in 1997, as a Web Developer : <br>
+Full Stack Developer with **3+ years** of experience, currently at **Kode Sarl** in Gland, Switzerland. <br><br>
+Previously at **The Coding Machine** in Paris, improving code and performance, and worked on the web platforms of the CMA Média group (**La Provence, Corse Matin, La Tribune**), including developing features and creating a **Design System** : <br>
+
 🚀  Next.js / Tailwind / StoryBook / TypeScript 🚀.
 
-- 🔭 &nbsp; **I am happy as a Web Developer** (former Research Officer in Finance & Economics)
+- 🔭 &nbsp; **I am happy as a Full Stack Developer** (former Research Officer in Finance & Economics)
 - 🌱 &nbsp; I'm on track with learning more about powerful libraries for React / JS : Framer motion, Three.js, React three fiber and Leaflet
 - 🥅 &nbsp; 2025 Goals : Learn more about TS, ML/AI and design patterns
 - 💬 &nbsp; Ask me about Swell Forecasting, Bourbaki and Ukulele Strumming Patterns
