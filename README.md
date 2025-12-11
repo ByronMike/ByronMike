@@ -30,7 +30,7 @@ Previously at **The Coding Machine** in Paris, improving code and performance, a
 
 - 🔭 &nbsp; **I am happy as a Full Stack Developer** (former Research Officer in Finance & Economics)
 - 🌱 &nbsp; I'm on track with learning more about powerful libraries for React / JS : Framer motion, Three.js, React three fiber and Leaflet
-- 🥅 &nbsp; 2025 Goals : Learn more about TS, ML/AI and design patterns
+- 🥅 &nbsp; 2026 Goals : Learn more about TS, ML/AI and design patterns
 - 💬 &nbsp; Ask me about Swell Forecasting, Bourbaki and Ukulele Strumming Patterns
 - ⚡ &nbsp; Fun fact: When eating cereal, I poor the milk always AFTER the cereal
 
