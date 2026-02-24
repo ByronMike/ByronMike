@@ -68,13 +68,13 @@ Previously at **The Coding Machine** in Paris, improving code and performance, a
 ## 📈 GitHub Stats
 
 <div align="center">
-<!-- GitHub Stats tools by @anuraghazra : https://github.com/anuraghazra/github-readme-stats  -->
-<a href="https://github.com/ByronMike/ByronMike">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=byronmike&show_icons=true&line_height=27&theme=radical"/>
-</a>
-<a href="https://github.com/ByronMike/ByronMike">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byronmike&langs_count=3&theme=radical&hide=html,css,javascript,jupyter%20notebook" />
-</a>
+  <a href="https://github.com/byronmike">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=byronmike&show_icons=true&theme=radical" alt="GitHub Stats (public repos)" />
+  </a>
+
+  <a href="https://github.com/byronmike">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=byronmike&langs_count=3&theme=radical&layout=compact&hide=javascript,jupyter%20notebook" alt="Most Used Languages (public repos)" />
+  </a>
 </div>
 
 
