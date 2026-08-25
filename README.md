@@ -69,12 +69,9 @@ Previously at **The Coding Machine** in Paris, improving code and performance, a
 
 <div align="center">
   <a href="https://github.com/byronmike">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=byronmike&show_icons=true&theme=radical" alt="GitHub Stats (public repos)" />
-  </a>
-
-  <a href="https://github.com/byronmike">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=byronmike&langs_count=3&theme=radical&layout=compact&hide=javascript,jupyter%20notebook" alt="Most Used Languages (public repos)" />
-  </a>
+<img src="https://img.shields.io/github/followers/byronmike?style=for-the-badge&logo=github&color=fe428e&labelColor=141321" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/byronmike?affiliations=OWNER&style=for-the-badge&logo=github&color=fe428e&labelColor=141321" alt="Stars" />
+  <img src="https://img.shields.io/github/last-commit/byronmike/byronmike?style=for-the-badge&color=fe428e&labelColor=141321" alt="Dernier commit" />  </a>
 </div>
 
 
